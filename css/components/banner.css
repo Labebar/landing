@@ -1,0 +1,13 @@
+.banner {
+  background-image: url("https://static.millesima.com/s3/contrib/common/slides/2025/250503_pl-vins-du-sud/main-push_pl-sud.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding-bottom: 100px;
+}
+
